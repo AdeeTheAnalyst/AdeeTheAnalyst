@@ -32,8 +32,8 @@ Outside data, I enjoy continuous learning on human behaviour.
 
 ## 🗃️ Projects
 
-- **Retail Sales Performance Analysis — Excel-based sales analysis, KPI tracking, and dashboard development. View Project
-- **HR Workforce & Attrition Analytics — Interactive Power BI dashboard for exploring workforce trends and attrition patterns. View Project.
+- Retail Sales Performance Analysis — Excel-based sales analysis, KPI tracking, and dashboard development. View Project
+- HR Workforce & Attrition Analytics — Interactive Power BI dashboard for exploring workforce trends and attrition patterns. View Project.
 
 ---
 
