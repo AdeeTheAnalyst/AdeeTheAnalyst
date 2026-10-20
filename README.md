@@ -58,7 +58,7 @@ Outside data, I enjoy continuous learning about human behaviour.
 | 🛍️ **Retail Sales Performance Analysis** | Excel | Sales analysis, KPI tracking, and dashboard development. | [View Project](https://github.com/YOUR-USERNAME/RETAIL-REPO-NAME) |
 | 👥 **HR Workforce & Attrition Analytics** | Power BI | Interactive dashboard for exploring workforce trends and attrition patterns. | [View Project](https://github.com/YOUR-USERNAME/HR-REPO-NAME) |
 
-👉 [Browse all my repositories](https://github.com/YOUR-USERNAME?tab=repositories)
+👉 [Browse all my repositories](https://github.com/AdeeTheAnalyst?tab=repositories)
 
 ---
 
