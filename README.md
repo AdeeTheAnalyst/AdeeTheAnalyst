@@ -54,7 +54,7 @@ Outside data, I enjoy continuous learning about human behaviour.
 
 | Project | Tools | Description | Link |
 |---|---|---|---|
-| ☕ **KB Cafe Sales Dashboard** | Excel, PivotTables, Slicers | One-page interactive dashboard for a coffee store, built from pivot table analysis of orders, customers, and products to track sales performance and KPIs. | [View Project](https://github.com/YOUR-USERNAME/KB-CAFE-REPO-NAME) |
+| ☕ **KB Cafe Sales Dashboard** | Excel, PivotTables, Slicers | One-page interactive dashboard for a coffee store, built from pivot table analysis of orders, customers, and products to track sales performance and KPIs. | [View Project](https://github.com/AdeeTheAnalyst/kb-cafe-sales-dashboard) |
 | 🛍️ **Retail Sales Performance Analysis** | Excel | Sales analysis, KPI tracking, and dashboard development. | [View Project](https://github.com/YOUR-USERNAME/RETAIL-REPO-NAME) |
 | 👥 **HR Workforce & Attrition Analytics** | Power BI | Interactive dashboard for exploring workforce trends and attrition patterns. | [View Project](https://github.com/YOUR-USERNAME/HR-REPO-NAME) |
 
