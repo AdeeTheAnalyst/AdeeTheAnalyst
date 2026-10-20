@@ -84,7 +84,7 @@ I'm open to **Data Analyst opportunities**, collaborative projects, and freelanc
 
 - 💼 **LinkedIn:** [adeshina-sherifat](https://linkedin.com/in/adeshina-sherifat)
 - ✍🏽 **Medium:** [Data Analytics Portfolio](https://medium.com/@eyinadeadeshina36/list/from-data-to-decision-making-561ab26ca151)
-- 📧 **Email:** [Email](mailto:eyinadeadeshina36@gmail.com)
+- 📧 **Email:** [eyinadeadeshina36@gmail.com](mailto:eyinadeadeshina36@gmail.com)
 
 ---
 
