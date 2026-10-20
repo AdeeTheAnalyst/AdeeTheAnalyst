@@ -1,5 +1,4 @@
-
-# Hi, I'm Sherifat Adeshina 👋🏽
+<h1 align="center">Hi, I'm Sherifat Adeshina 👋🏽</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -9,7 +8,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/adeshina-sherifat">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-555555?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@eyinadeadeshina36/list/from-data-to-decision-making-561ab26ca151">
+    <img src="https://img.shields.io/badge/MEDIUM-Articles-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/EMAIL-Contact-6AA84F?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
@@ -20,71 +22,65 @@
 
 ## 🚀 About Me
 
-I'm a Data Analyst with a background in Business Administration, focused on transforming raw data into actionable insights that support informed business decisions.
+I'm a **Data Analyst** with a background in **Business Administration**, focused on turning raw data into actionable insights that support informed business decisions.
 
-I use Excel, SQL, and Power BI for data cleaning, analysis, visualization, dashboard development, and business reporting, while expanding my Python skills for data analytics.
+I use **Excel, SQL, and Power BI** for data cleaning, analysis, visualization, dashboard development, and business reporting, while expanding my **Python** skills for data analytics.
 
-As a Data Analytics Facilitator, I also help learners develop practical analytical skills and communicate technical concepts effectively.
+As a **Data Analytics Facilitator**, I also help learners build practical analytical skills and communicate technical concepts clearly. I believe effective analysis goes beyond producing reports: it means asking the right questions, understanding business context, and translating findings into insights people can act on.
 
-Outside data, I enjoy continuous learning on human behaviour.
-
----
-
-## 🗃️ Projects
-
-- Retail Sales Performance Analysis — Excel-based sales analysis, KPI tracking, and dashboard development. View Project
-- HR Workforce & Attrition Analytics — Interactive Power BI dashboard for exploring workforce trends and attrition patterns. View Project.
-
-### My repositories
-[My repositories](https://github.com/repos?q=owner%3A%40me)
+Outside data, I enjoy continuous learning about human behaviour.
 
 ---
 
-## 🔭 What I'm Currently Working On
-
-- 📊 Analyzing an international survey of data professionals and other respondents to uncover patterns and insights.
-- 🗄️ Building a MySQL library database and practicing SQL joins, aggregations, and relational data analysis.
-- 🐍 Developing Python skills for data cleaning and analysis, alongside Power Query for data transformation and modeling.
-
----
-
-## 🌱 Currently Learning
-
-- Advanced SQL
-- Python for Data Analytics
-- Data Manipulation & Visualization
-
----
-
-## 🛠️ Technical Skillset
-
-### Data Analysis & Visualization
+## 🛠️ Technical Skills
 
 ![Excel](https://img.shields.io/badge/Excel-Intermediate-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
 
+| Category | Skills & Tools |
+|---|---|
+| **Data Preparation** | Excel, SQL, Power Query, Data Cleaning |
+| **Analysis** | Exploratory Data Analysis, SQL Joins & Aggregations, Performance Analysis |
+| **Visualization & Reporting** | Power BI Dashboards, Excel Dashboards, KPI Reporting, Data Storytelling |
+| **Business Intelligence** | Data Modeling, DAX |
+| **Programming** | Python for Data Analytics *(in progress)* |
+| **Professional** | Data Analytics Facilitation, Communicating Technical Concepts |
 
-### Tools & Technologies
+---
 
-- Data Preparation: Excel, SQL, Power Query
-- Analysis: Data Cleaning, Exploratory Data Analysis, SQL Joins & Aggregations
-- Visualization: Power BI Dashboards, KPI Reporting, Data Storytelling
-- Business Intelligence: Data Modeling, DAX, Performance Analysis
-- Programming: Python for Data Analytics
+## 📁 Featured Projects
 
-Data Visualization & Storytelling
+| Project | Tools | Description | Link |
+|---|---|---|---|
+| ☕ **KB Cafe Sales Dashboard** | Excel, PivotTables, Slicers | One-page interactive dashboard for a coffee store, built from pivot table analysis of orders, customers, and products to track sales performance and KPIs. | [View Project](https://github.com/YOUR-USERNAME/KB-CAFE-REPO-NAME) |
+| 🛍️ **Retail Sales Performance Analysis** | Excel | Sales analysis, KPI tracking, and dashboard development. | [View Project](https://github.com/YOUR-USERNAME/RETAIL-REPO-NAME) |
+| 👥 **HR Workforce & Attrition Analytics** | Power BI | Interactive dashboard for exploring workforce trends and attrition patterns. | [View Project](https://github.com/YOUR-USERNAME/HR-REPO-NAME) |
+
+👉 [Browse all my repositories](https://github.com/YOUR-USERNAME?tab=repositories)
+
+---
+
+## 🔭 Currently Working On
+
+- 📊 Analyzing an international survey of data professionals to uncover patterns and insights
+- 🗄️ Building a MySQL library database and practicing joins, aggregations, and relational data analysis
+- 🐍 Developing Python skills for data cleaning and analysis, alongside Power Query for data transformation and modeling
+
 ---
 
 ## 🌱 Continuous Learning
 
-I'm strengthening my SQL, Python, data modeling, and visualization skills through structured learning and hands-on projects, including my data learning journey with AltSchool Africa's School of Data, Karatu 2026 cohort.
+I'm strengthening my SQL, Python, data modeling, and visualization skills through structured learning and hands-on projects, including my data learning journey with **AltSchool Africa's School of Data (Karatu 2026 cohort)**.
 
-I believe effective data analysis goes beyond producing reports; it means asking the right questions, understanding business context, and translating findings into insights people can act on.
+**Focus areas:** Advanced SQL · Python for Data Analytics · Data Manipulation & Visualization
+
+---
 
 ## 🤝 Let's Connect
 
-I'm open to Data Analyst opportunities, collaborative projects, and freelance engagements where I can apply analytical thinking to business problems and support data-informed decisions.
+I'm open to **Data Analyst opportunities**, collaborative projects, and freelance engagements where I can apply analytical thinking to business problems and support data-informed decisions.
 
 - 💼 **LinkedIn:** [adeshina-sherifat](https://linkedin.com/in/adeshina-sherifat)
 - ✍🏽 **Medium:** [Data Analytics Portfolio](https://medium.com/@eyinadeadeshina36/list/from-data-to-decision-making-561ab26ca151)
