@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Data Analyst** with a background in **Business Administration**, focused on turning raw data into actionable insights that support informed business decisions.
 
@@ -28,7 +28,7 @@ I use **Excel, SQL, and Power BI** for data cleaning, analysis, visualization, d
 
 As a **Data Analytics Facilitator**, I also help learners build practical analytical skills and communicate technical concepts clearly. I believe effective analysis goes beyond producing reports: it means asking the right questions, understanding business context, and translating findings into insights people can act on.
 
-Outside data, I enjoy continuous learning about human behaviour.
+Outside data, I enjoy continuous learning on human behaviour.
 
 ---
 
