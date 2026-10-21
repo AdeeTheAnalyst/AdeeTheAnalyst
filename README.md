@@ -86,5 +86,5 @@ I'm open to **Data Analyst opportunities**, collaborative projects, and freelanc
 ---
 
 <p align="center">
-  <i>Turning data into insights, one project at a time. 📊</i>
+  <i>Turning data into insights📊</i>
 </p>
