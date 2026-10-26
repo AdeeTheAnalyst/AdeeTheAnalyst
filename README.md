@@ -13,7 +13,7 @@
   <a href="https://medium.com/@eyinadeadeshina36/list/from-data-to-decision-making-561ab26ca151">
     <img src="https://img.shields.io/badge/MEDIUM-Articles-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:eyinadeadeshina36@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-Contact-6AA84F?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -34,10 +34,11 @@ Outside data, I enjoy continuous learning on human behaviour.
 
 ## 🛠️ Technical Skills
 
-![Excel](https://img.shields.io/badge/Excel-Intermediate-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 | Category | Skills & Tools |
 |---|---|
@@ -54,7 +55,8 @@ Outside data, I enjoy continuous learning on human behaviour.
 
 | Project | Tools | Description | Link |
 |---|---|---|---|
-| ☕ **KB Cafe Sales Dashboard** | Excel, PivotTables, Slicers | One-page interactive dashboard for a coffee store, built from pivot table analysis of orders, customers, and products to track sales performance and KPIs. | [View Project](https://github.com/AdeeTheAnalyst/kb-cafe-sales-dashboard) |
+| **HR Workforce & Attrition Analytics** | Power BI, Power Query, DAX | A four-page interactive HR dashboard analyzing employee attrition, tenure, recruitment channels, departments, and pay. It uses a fictional dataset of 311 employee records to identify retention patterns and support HR decisions. | [View Project](YOUR-HR-PROJECT-LINK) |
+| **KB Cafe Sales Dashboard** | Excel, PivotTables, Slicers | One-page interactive dashboard for a coffee store, built from pivot table analysis of orders, customers, and products to track sales performance and KPIs. | [View Project](https://github.com/AdeeTheAnalyst/kb-cafe-sales-dashboard) |
 
 👉 [Browse all my repositories](https://github.com/AdeeTheAnalyst?tab=repositories)
 
@@ -86,5 +88,5 @@ I'm open to **Data Analyst opportunities**, collaborative projects, and freelanc
 ---
 
 <p align="center">
-  <i>Turning data into insights📊</i>
+  <i>Turning data into insights 📊</i>
 </p>
