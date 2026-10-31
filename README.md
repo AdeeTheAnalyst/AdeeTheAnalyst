@@ -55,7 +55,7 @@ Outside data, I enjoy continuous learning on human behaviour.
 
 | Project | Tools | Description | Link |
 |---|---|---|---|
-| **HR Workforce & Attrition Analytics** | Power BI, Power Query, DAX | A four-page interactive HR dashboard analyzing employee attrition, tenure, recruitment channels, departments, and pay. It uses a fictional dataset of 311 employee records to identify retention patterns and support HR decisions. | [View Project](YOUR-HR-PROJECT-LINK) |
+| **HR Workforce & Attrition Analytics** | Power BI, Power Query, DAX | A four-page interactive HR dashboard analyzing employee attrition, tenure, recruitment channels, departments, and pay. It uses a fictional dataset of 311 employee records to identify retention patterns and support HR decisions. | [View Project](https://github.com/AdeeTheAnalyst/hr-workforce-attrition-powerbi) |
 | **KB Cafe Sales Dashboard** | Excel, PivotTables, Slicers | One-page interactive dashboard for a coffee store, built from pivot table analysis of orders, customers, and products to track sales performance and KPIs. | [View Project](https://github.com/AdeeTheAnalyst/kb-cafe-sales-dashboard) |
 
 👉 [Browse all my repositories](https://github.com/AdeeTheAnalyst?tab=repositories)
